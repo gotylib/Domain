@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Domains\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A05176-A185-4014-B022-6B0D98F77C5F}|Telegram Bot\\Telegram Bot.csproj|d:\\repos\\domains\\telegram bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A05176-A185-4014-B022-6B0D98F77C5F}|Telegram Bot\\Telegram Bot.csproj|solutionrelative:telegram bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContaxt.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs",
+              "RelativeDocumentMoniker": "Data Base\\ApplicationContaxt.cs",
+              "ToolTip": "D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs*",
+              "RelativeToolTip": "Data Base\\ApplicationContaxt.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:23:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\Domain.cs",
+              "RelativeDocumentMoniker": "Data Base\\Domain.cs",
+              "ToolTip": "D:\\repos\\Domains\\Data Base\\Domain.cs",
+              "RelativeToolTip": "Data Base\\Domain.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:01:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Telegram Bot\\Program.cs",
+              "RelativeDocumentMoniker": "Telegram Bot\\Program.cs",
+              "ToolTip": "D:\\repos\\Domains\\Telegram Bot\\Program.cs",
+              "RelativeToolTip": "Telegram Bot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:58:34.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\Program.cs",
+              "RelativeDocumentMoniker": "Data Base\\Program.cs",
+              "ToolTip": "D:\\repos\\Domains\\Data Base\\Program.cs",
+              "RelativeToolTip": "Data Base\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:58:11.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

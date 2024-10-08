@@ -1,0 +1,32 @@
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Data Base.exe
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Data Base.deps.json
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Data Base.runtimeconfig.json
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Data Base.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Data Base.pdb
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Npgsql.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.csproj.AssemblyReference.cache
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.AssemblyInfoInputs.cache
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.AssemblyInfo.cs
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.csproj.CoreCompileInputs.cache
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.sourcelink.json
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.csproj.Up2Date
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.dll
+D:\repos\Domains\Data Base\obj\Debug\net8.0\refint\Data Base.dll
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.pdb
+D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.genruntimeconfig.cache
+D:\repos\Domains\Data Base\obj\Debug\net8.0\ref\Data Base.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\MoreLinq.dll

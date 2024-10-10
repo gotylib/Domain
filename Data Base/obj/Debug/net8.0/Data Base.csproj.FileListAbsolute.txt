@@ -30,3 +30,5 @@ D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.pdb
 D:\repos\Domains\Data Base\obj\Debug\net8.0\Data Base.genruntimeconfig.cache
 D:\repos\Domains\Data Base\obj\Debug\net8.0\ref\Data Base.dll
 D:\repos\Domains\Data Base\bin\Debug\net8.0\MoreLinq.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Tokenizer.dll
+D:\repos\Domains\Data Base\bin\Debug\net8.0\Whois.dll

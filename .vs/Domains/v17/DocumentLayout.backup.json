@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\repos\\Domains\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F134646-2E89-4883-84BC-E042987C5B4C}|Presentation\\Presentation.csproj|d:\\repos\\domains\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F134646-2E89-4883-84BC-E042987C5B4C}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F134646-2E89-4883-84BC-E042987C5B4C}|Presentation\\Presentation.csproj|d:\\repos\\domains\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F134646-2E89-4883-84BC-E042987C5B4C}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4A05176-A185-4014-B022-6B0D98F77C5F}|Telegram Bot\\Telegram Bot.csproj|d:\\repos\\domains\\telegram bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +46,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\repos\\Domains\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:22:17.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\DBController.cs",
+              "RelativeDocumentMoniker": "Data Base\\DBController.cs",
+              "ToolTip": "D:\\repos\\Domains\\Data Base\\DBController.cs*",
+              "RelativeToolTip": "Data Base\\DBController.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:12:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\repos\\Domains\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:11:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationContaxt.cs",
               "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs",
               "RelativeDocumentMoniker": "Data Base\\ApplicationContaxt.cs",
-              "ToolTip": "D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs*",
-              "RelativeToolTip": "Data Base\\ApplicationContaxt.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs",
+              "RelativeToolTip": "Data Base\\ApplicationContaxt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T10:23:36.008Z",
               "EditorCaption": ""
@@ -53,14 +104,14 @@
               "RelativeDocumentMoniker": "Data Base\\Domain.cs",
               "ToolTip": "D:\\repos\\Domains\\Data Base\\Domain.cs",
               "RelativeToolTip": "Data Base\\Domain.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAzwAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T10:01:21.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repos\\Domains\\Telegram Bot\\Program.cs",
               "RelativeDocumentMoniker": "Telegram Bot\\Program.cs",
@@ -68,7 +119,8 @@
               "RelativeToolTip": "Telegram Bot\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:58:34.817Z"
+              "WhenOpened": "2024-10-04T07:58:34.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +130,7 @@
               "RelativeDocumentMoniker": "Data Base\\Program.cs",
               "ToolTip": "D:\\repos\\Domains\\Data Base\\Program.cs",
               "RelativeToolTip": "Data Base\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T07:58:11.839Z",
               "EditorCaption": ""

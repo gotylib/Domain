@@ -1,0 +1,44 @@
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\appsettings.Development.json
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\appsettings.json
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Data Base Controll.exe
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Data Base Controll.deps.json
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Data Base Controll.runtimeconfig.json
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Data Base Controll.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Data Base Controll.pdb
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Npgsql.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repos\Domain\Data Base Controll\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.csproj.AssemblyReference.cache
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.AssemblyInfoInputs.cache
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.AssemblyInfo.cs
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.csproj.CoreCompileInputs.cache
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.MvcApplicationPartsAssemblyInfo.cs
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.MvcApplicationPartsAssemblyInfo.cache
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.sourcelink.json
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets.build.json
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets.development.json
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets\msbuild.Data Base Controll.Microsoft.AspNetCore.StaticWebAssets.props
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets\msbuild.build.Data Base Controll.props
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Data Base Controll.props
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Data Base Controll.props
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\staticwebassets.pack.json
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\scopedcss\bundle\Data Base Controll.styles.css
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Bas.6AABC983.Up2Date
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.dll
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\refint\Data Base Controll.dll
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.pdb
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\Data Base Controll.genruntimeconfig.cache
+E:\repos\Domain\Data Base Controll\obj\Debug\net8.0\ref\Data Base Controll.dll

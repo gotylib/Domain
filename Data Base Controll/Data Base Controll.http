@@ -1,0 +1,8 @@
+@Data_Base_Controll_HostAddress = http://localhost:5081
+
+GET {{Data_Base_Controll_HostAddress}}/weatherforecast/
+Accept: application/json
+
+GET {{Data_Base_Controll_HostAddress}}/listofdomainswithminexpirationdate/
+Accept: application/json
+###

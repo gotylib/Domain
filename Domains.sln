@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Base", "Data Base\Data Base.csproj", "{197F88E7-98AE-4F89-B45E-F673039FF313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Base", "Data Base\Data Base.csproj", "{197F88E7-98AE-4F89-B45E-F673039FF313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram Bot", "Telegram Bot\Telegram Bot.csproj", "{D4A05176-A185-4014-B022-6B0D98F77C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telegram Bot", "Telegram Bot\Telegram Bot.csproj", "{D4A05176-A185-4014-B022-6B0D98F77C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{6F134646-2E89-4883-84BC-E042987C5B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Base Controll", "Data Base Controll\Data Base Controll.csproj", "{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{D4A05176-A185-4014-B022-6B0D98F77C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4A05176-A185-4014-B022-6B0D98F77C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4A05176-A185-4014-B022-6B0D98F77C5F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F134646-2E89-4883-84BC-E042987C5B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F134646-2E89-4883-84BC-E042987C5B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F134646-2E89-4883-84BC-E042987C5B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F134646-2E89-4883-84BC-E042987C5B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

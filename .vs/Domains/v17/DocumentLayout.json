@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\repos\\Domains\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Domains\\Data Base\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data Base\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4A05176-A185-4014-B022-6B0D98F77C5F}|Telegram Bot\\Telegram Bot.csproj|d:\\repos\\domains\\telegram bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A05176-A185-4014-B022-6B0D98F77C5F}|Telegram Bot\\Telegram Bot.csproj|solutionrelative:telegram bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data Base\\ApplicationContaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}|Data Base Controll\\Data Base Controll.csproj|d:\\repos\\domains\\data base controll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}|Data Base Controll\\Data Base Controll.csproj|solutionrelative:data base controll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Domains\\Data Base\\Domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data Base\\Domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}|Data Base Controll\\Data Base Controll.csproj|d:\\repos\\domains\\data base controll\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5F5236-2833-4D8D-9F40-BB3D6A2FF692}|Data Base Controll\\Data Base Controll.csproj|solutionrelative:data base controll\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Domains\\Telegram Bot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Telegram Bot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\applicationcontaxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|d:\\repos\\domains\\data base\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F88E7-98AE-4F89-B45E-F673039FF313}|Data Base\\Data Base.csproj|solutionrelative:data base\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Data Base Controll\\Program.cs",
+              "RelativeDocumentMoniker": "Data Base Controll\\Program.cs",
+              "ToolTip": "D:\\repos\\Domains\\Data Base Controll\\Program.cs",
+              "RelativeToolTip": "Data Base Controll\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:56:39.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "D:\\repos\\Domains\\Data Base Controll\\Controllers\\DBController.cs",
+              "RelativeDocumentMoniker": "Data Base Controll\\Controllers\\DBController.cs",
+              "ToolTip": "D:\\repos\\Domains\\Data Base Controll\\Controllers\\DBController.cs",
+              "RelativeToolTip": "Data Base Controll\\Controllers\\DBController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:43:18.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationContaxt.cs",
               "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\ApplicationContaxt.cs",
               "RelativeDocumentMoniker": "Data Base\\ApplicationContaxt.cs",
@@ -42,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Domain.cs",
               "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\Domain.cs",
               "RelativeDocumentMoniker": "Data Base\\Domain.cs",
@@ -54,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repos\\Domains\\Telegram Bot\\Program.cs",
               "RelativeDocumentMoniker": "Telegram Bot\\Program.cs",
@@ -62,11 +100,12 @@
               "RelativeToolTip": "Telegram Bot\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:58:34.817Z"
+              "WhenOpened": "2024-10-04T07:58:34.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repos\\Domains\\Data Base\\Program.cs",
               "RelativeDocumentMoniker": "Data Base\\Program.cs",
@@ -76,10 +115,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T07:58:11.839Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

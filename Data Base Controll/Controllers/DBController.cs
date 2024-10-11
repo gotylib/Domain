@@ -34,7 +34,7 @@ namespace Data_Base_Controll.Controllers
             }
         }
 
-        [HttpPost("PostNewDomain")]
+        [HttpPost("NewDomain")]
         public ActionResult PostNewDomain(string domain)
         {
             using (ApplicationContext db = new ApplicationContext())
@@ -53,8 +53,24 @@ namespace Data_Base_Controll.Controllers
             }
         }
 
-        [HttpGet("GetInformationAboutDomain")]
-        public 
-        
+        [HttpGet("InformationAboutDomain")]
+        public ActionResult<Domain> GetInformationAboutDomain(string domain)
+        {
+            using (ApplicationContext db = new ApplicationContext()) 
+            {
+                var listDomain = db.Domains.Where(d => d.Name == domain).ToList();
+                if (listDomain.Count != 0)
+                {
+                    return Ok(listDomain[0]);
+                }
+                else
+                {
+                    return BadRequest("NotFount");
+                }
+                
+            }
+        }
+
+
     }
 }
